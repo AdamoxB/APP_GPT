@@ -1,0 +1,6 @@
+streamlit
+openai
+python-dotenv
+qdrant_client
+pydub
+pathlib
