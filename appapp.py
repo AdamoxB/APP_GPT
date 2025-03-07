@@ -75,7 +75,7 @@ Odpowiadaj na pytania w sposób zwięzły i zrozumiały.
 """.strip()
 
 # Update path to local storage
-DB_PATH = Path("C:/GPT/db")  # New path for database
+DB_PATH = Path("C:/GPT4/db")  # New path for database
 DB_CONVERSATIONS_PATH = DB_PATH / "conversations"
 
 def load_conversation_to_state(conversation):
